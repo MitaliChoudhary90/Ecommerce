@@ -60,7 +60,3 @@ app.listen(PORT || 9000,()=>{
 
 
 
-//mongo db 
-//username = mtcjaipur
-//pass=  NvrxaBLc9UKJGRn9
-// mongodb vs code=  mongodb+srv://mtcjaipur:NvrxaBLc9UKJGRn9@cluster0.vjqbx94.mongodb.net/ ECOMMERCE
